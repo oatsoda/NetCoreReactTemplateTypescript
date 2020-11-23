@@ -1,4 +1,4 @@
-export const ApplicationName = 'FamilyTree';
+export const ApplicationName = 'MyOidcClient';
 
 export const QueryParameterNames = {
   ReturnUrl: 'returnUrl',
